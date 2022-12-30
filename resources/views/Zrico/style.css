@@ -1,0 +1,170 @@
+.x-dark-blue {
+    color: #231651;
+}
+
+.x-bg-dark-blue {
+    background-color: #231651;
+}
+
+.x-font-rubik {
+    font-family: "Rubik", sans-serif;
+}
+
+/* Landing */
+
+.x-landing-container {
+    margin: 200px 120px 0px 120px;
+}
+
+h5.landing {
+    font-size: 48px;
+    font-weight: 600;
+    color: #231651;
+}
+
+p.landing {
+    font-size: 32px;
+    font-weight: 400;
+    color: #231651;
+    margin-top: 40px;
+}
+
+label.help {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+/* User-Login */
+
+#login-user {
+    background-image: linear-gradient(#007bff, #ffa8a7);
+    background-repeat: no-repeat;
+}
+
+h5.login {
+    font-size: 46px;
+    font-weight: 600;
+}
+
+h6.login {
+    font-size: 28px;
+    font-weight: 500;
+}
+
+a.lupa {
+    font-size: 20px;
+    font-weight: 400;
+    float: right;
+    color: #0b5ed7;
+}
+
+/* User-Registrasi */
+
+#registrasi-user {
+    background-image: linier-gradient(#007bff, #1da1f2);
+    background-repeat: no-repeat;
+}
+
+/* daftar-aduan */
+#daftar-pengaduan {
+    padding: 2vw 8vw 8vw 8vw;
+}
+#daftar-pengaduan .daftar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#daftar-pengaduan .filcar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+#daftar-pengaduan .filcar .search .search-form {
+    display: flex;
+}
+#daftar-pengaduan .box-aduan {
+    margin-top: 40px;
+    padding: 40px;
+    background: #f7f6fa;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+}
+#daftar-pengaduan .box-aduan .conten-kanan .btn-go {
+}
+
+/* .div-filter {
+    width: 268px;
+    height: 106px;
+    top: 268px;
+    left: 101px;
+    border-radius: 4, 8px;
+}
+
+.div-search {
+    width: 268px;
+    height: 106px;
+    left: 101px;
+    border-radius: 4, 8px;
+}
+
+.div-filese {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-aduan {
+    margin-left: 101px;
+}
+
+.div-bt-tambah {
+    margin-left: 1042px;
+    height: 46px;
+    width: 298px;
+}
+
+.div-nama {
+    width: 156px;
+    height: 45px;
+} */
+
+/* tambah-aduan */
+.container-tambah-aduan {
+    margin-top: 52px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 23px;
+}
+
+/* detail-aduan */
+.div-file-aduan {
+    width: 199px;
+    height: 46px;
+    padding: 8px, 16px, 8px, 16px;
+}
+
+.div-file {
+    margin-bottom: 36px;
+    margin-top: 36px;
+}
+
+.bt-unduh-dok {
+    color: black;
+    background-color: #cab8ff;
+}
+
+.bt-unduh-gambar {
+    color: black;
+    background-color: #b5deff;
+}
+
+.bt-unduh-suara {
+    color: black;
+    background-color: #c1ffd7;
+}
+
+.bt-unduh-video {
+    color: black;
+    background-color: #fcffa6;
+}
